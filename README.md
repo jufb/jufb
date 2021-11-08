@@ -1,6 +1,7 @@
 <h1>Greetings! Olá!</h1>
 
-Do you offer innovation, new opportunities, and challenging projects?
+<h3>Do you offer innovation, new opportunities, and challenging projects?</h3>
+
 Here I am!
 
 I have been a technology enthusiast since childhood. In my fifteens, I published my first website during my technical high school in Data Processing.
