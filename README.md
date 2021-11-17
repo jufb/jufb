@@ -28,17 +28,12 @@ My educational background is bachelor's degree in Computer Science, two graduate
 
 ### Reach me out on:
 
-<a href="https://www.linkedin.com/in/fborgesj/" target="_blank">
+www.linkedin.com/in/fborgesj/fborgesj
 	
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+##
+### *"Leaders must inspire and motivate to raise new leaders."*
+### *-Juliana*
+##
 
-</a>
-
-*"Leaders must inspire and motivate to raise new leaders."*
-
-*-Juliana*
-
-## GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jufb&show_icons=true)
-## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jufb&theme=black-pink)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jufb&show_icons=true)
