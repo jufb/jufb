@@ -38,4 +38,3 @@ www.linkedin.com/in/fborgesj/fborgesj
 ##
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jufb&theme=black-pink)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jufb&show_icons=true)
