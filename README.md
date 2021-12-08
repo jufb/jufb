@@ -31,6 +31,3 @@ My educational background is bachelor's degree in Computer Science, two graduate
 ### Reach me out on LinkedIn:
 
 www.linkedin.com/in/fborgesj/fborgesj
-
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jufb&theme=black-pink)
