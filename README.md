@@ -31,10 +31,6 @@ My educational background is bachelor's degree in Computer Science, two graduate
 ### Reach me out on:
 
 www.linkedin.com/in/fborgesj/fborgesj
-	
-##
-### *"Leaders must inspire and motivate to raise new leaders."*
-### *-Juliana*
-##
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jufb&theme=black-pink)
