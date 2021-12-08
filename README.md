@@ -28,9 +28,9 @@ My educational background is bachelor's degree in Computer Science, two graduate
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### Reach me out on:
+### Reach me out on LinkedIn:
 
-<a href="www.linkedin.com/in/fborgesj/fborgesj">LinkedIn</a>
+www.linkedin.com/in/fborgesj/fborgesj
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jufb&theme=black-pink)
