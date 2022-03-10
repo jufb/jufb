@@ -4,10 +4,9 @@
 
 Here I am!
 
-I have been a technology enthusiast since childhood. In my fifteens, I published my first website during my technical high school in Data Processing.
-Since then, I have accumulated over than ten years of experience, as a software engineer and also as technical project leader.
+I have been a technology enthusiast since childhood. In my fifteens, I published my first website during my technical high school in Data Processing. Since then, I have accumulated over ten years of experience as a software engineer and a technical project leader.
 
-My educational background is bachelor's degree in Computer Science, two graduate certificates in Software Engineering, and Project Management.
+My educational background is a bachelor's degree in Computer Science two graduate certificates in Software Engineering and Project Management.
 
 ### Languages that I know besides Portuguese and English:
 
